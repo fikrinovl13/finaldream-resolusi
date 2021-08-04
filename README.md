@@ -26,5 +26,4 @@ saya akan membuat aplikasi dari bahasa java tersebut
 aplikasi tersebut bisa digunakan oleh
 pelajar
 ibu rumah tangga
-rumah sakit 
-dan instusi lainya
+remaja dan orang dewasa
