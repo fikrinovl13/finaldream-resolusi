@@ -21,3 +21,10 @@
 -Operasi Unary
 -Operasi Equality
 -Opeasi Comditional
+setelah saya pelajari 1 bulan basic di bahasa java 
+saya akan membuat aplikasi dari bahasa java tersebut
+aplikasi tersebut bisa digunakan oleh
+pelajar
+ibu rumah tangga
+rumah sakit 
+dan instusi lainya
